@@ -1,0 +1,106 @@
+{
+  "part1": [
+    {"id": "p1-a", "items": [
+      {"script": "Welcome to Harbor View Aquarium, the largest marine exhibit on the West Coast. Today, you'll have the chance to see sharks, sea turtles, and colorful tropical fish up close. Before you begin your tour, please remember that flash photography is not allowed in any of the exhibits. Our gift shop, café, and information desk are located near the main entrance. Enjoy your visit!"},
+      {"script": "Thank you for calling Westbrook Dental Clinic. Our office is open from eight a.m. to six p.m., Monday through Friday. If you would like to schedule, change, or cancel an appointment, please press one. For questions about insurance and billing, please press two. To speak with a receptionist, please stay on the line, and your call will be answered in the order it was received."}
+    ]},
+    {"id": "p1-b", "items": [
+      {"script": "Good morning, passengers. This is your captain speaking. We are currently flying at an altitude of thirty-five thousand feet, and we expect to arrive in Chicago about twenty minutes ahead of schedule. The weather there is sunny and warm, with a high of seventy-eight degrees. In a few minutes, our flight attendants will be coming through the cabin with snacks, drinks, and headphones."},
+      {"script": "Are you looking for a reliable, affordable, and stylish car? Then visit Sunrise Motors this weekend! During our annual summer sale, every vehicle on our lot is available at a special discount. Our friendly staff will help you find the perfect model for your budget and lifestyle. Stop by on Saturday or Sunday, and receive a free oil change with every purchase."}
+    ]},
+    {"id": "p1-c", "items": [
+      {"script": "In local news, the city council has approved a plan to build a new public library on Maple Avenue. The building will include study rooms, a children's reading area, and a computer lab. Construction is expected to begin next spring and will take about eighteen months to complete. Residents who want to share their ideas about the project are invited to attend a public meeting on Thursday evening."},
+      {"script": "Attention, shoppers. Today only, all kitchen appliances, including blenders, toasters, and coffee makers, are thirty percent off the regular price. Also, members of our rewards program can receive an additional ten percent discount at checkout. Don't miss this opportunity to upgrade your kitchen. Our store will be closing in thirty minutes, so please bring your final purchases to the front registers."}
+    ]}
+  ],
+  "part3": [
+    {"id": "p3-a", "intro": "Imagine that a Canadian marketing firm is doing research in your country. You have agreed to participate in a telephone interview about coffee shops.", "items": [
+      {"q": "How often do you go to a coffee shop, and who do you usually go with?"},
+      {"q": "What do you usually order at a coffee shop, and why?"},
+      {"q": "Which is more important to you when choosing a coffee shop: the price or the atmosphere? Why?"}
+    ]},
+    {"id": "p3-b", "intro": "Imagine that a friend is planning to move to your city. You are having a telephone conversation about public transportation.", "items": [
+      {"q": "What kind of public transportation do you use most often, and why?"},
+      {"q": "How long does it take you to get to work or school, and how do you get there?"},
+      {"q": "Do you think public transportation in your city should be improved? Why or why not?"}
+    ]},
+    {"id": "p3-c", "intro": "Imagine that a British magazine is doing research for an article. You have agreed to participate in a telephone interview about online shopping.", "items": [
+      {"q": "When was the last time you shopped online, and what did you buy?"},
+      {"q": "Do you prefer to read product reviews before you buy something online? Why or why not?"},
+      {"q": "What are the advantages of shopping online compared to shopping in a store?"}
+    ]},
+    {"id": "p3-d", "intro": "Imagine that a local newspaper is preparing an article about how people spend their free time. You have agreed to participate in a telephone interview about exercise.", "items": [
+      {"q": "How often do you exercise, and where do you usually do it?"},
+      {"q": "Would you prefer to exercise alone or with other people? Why?"},
+      {"q": "If a new gym opened in your neighborhood, what facilities would you want it to have? Why?"}
+    ]}
+  ],
+  "part4": [
+    {"id": "p4-a",
+     "intro": "Hi, this is Daniel. I'm planning to attend the marketing conference next week, but I lost my copy of the schedule. I was hoping you could answer a few questions for me.",
+     "info": {
+       "title": "Northwest Marketing Conference",
+       "subtitle": "Hilton Seattle · Friday, May 14 · Registration: $120 (members $90)",
+       "headers": ["Time", "Session", "Speaker"],
+       "rows": [
+         ["9:00 – 9:30 A.M.", "Welcome Speech", "Laura Kim, CEO"],
+         ["9:30 – 10:30 A.M.", "Lecture: Trends in Social Media Advertising", "Mark Ellis"],
+         ["10:30 – 11:30 A.M.", "Workshop: Writing Effective Email Campaigns", "Susan Park"],
+         ["11:30 A.M. – 12:30 P.M.", "Lunch (provided)", ""],
+         ["1:00 – 2:00 P.M.", "Discussion: Building Customer Loyalty — CANCELED", "Mark Ellis"],
+         ["2:00 – 3:00 P.M.", "Workshop: Video Marketing on a Small Budget", "Jenna Ruiz"],
+         ["3:00 – 4:00 P.M.", "Lecture: Using Customer Data Wisely", "Mark Ellis"]
+       ]
+     },
+     "items": [
+       {"q": "What date is the conference, and where will it take place?"},
+       {"q": "I heard that lunch isn't included, so I need to bring my own. Is that right?"},
+       {"q": "I'm a big fan of Mark Ellis. Could you give me all the details about the sessions he is leading?"}
+     ]},
+    {"id": "p4-b",
+     "intro": "Hi, this is Tom Hill. I'll be interviewing candidates on Wednesday, but I don't have the schedule with me. Can you help me with a few questions?",
+     "info": {
+       "title": "Interview Schedule — Assistant Store Manager",
+       "subtitle": "Greenway Market · Wednesday, June 4 · Conference Room B · Interviewers: Maria Gomez (HR Director), Tom Hill (Regional Manager)",
+       "headers": ["Time", "Applicant", "Current Employer / Position"],
+       "rows": [
+         ["9:30 A.M.", "Kevin Brown", "FreshMart / Store Supervisor"],
+         ["10:30 A.M.", "Emily Chen — rescheduled to June 6", "Daily Foods / Sales Associate"],
+         ["11:30 A.M.", "Ryan Patel", "Corner Grocery / Store Manager"],
+         ["1:30 P.M.", "Olivia Grant", "FreshMart / Inventory Clerk"],
+         ["2:30 P.M.", "Sam Lee", "Bright Electronics / Assistant Manager"]
+       ]
+     },
+     "items": [
+       {"q": "What time is the first interview, and who is the applicant?"},
+       {"q": "I believe I'll be interviewing Emily Chen at 10:30. Is that correct?"},
+       {"q": "I heard some of the applicants currently work at FreshMart. Could you give me the details about those interviews?"}
+     ]},
+    {"id": "p4-c",
+     "intro": "Hello, this is Rachel. I signed up for the city's summer cooking classes, but I can't find the schedule. Could you help me with a few questions?",
+     "info": {
+       "title": "Oakwood Community Center — Summer Cooking Classes",
+       "subtitle": "July 7 – August 25 · Kitchen Studio, 2nd floor · Fee: $40 per class (materials included)",
+       "headers": ["Day / Time", "Class", "Instructor"],
+       "rows": [
+         ["Mondays, 6:00 – 8:00 P.M.", "Italian Pasta Basics", "Chef Marco Rossi"],
+         ["Tuesdays, 10:00 A.M. – 12:00 P.M.", "Healthy Breakfast Ideas", "Anna Lee"],
+         ["Wednesdays, 6:00 – 8:00 P.M.", "Korean Home Cooking", "Chef Min-ji Park"],
+         ["Thursdays, 6:00 – 8:00 P.M.", "Baking Bread at Home — FULL", "Chef Marco Rossi"],
+         ["Saturdays, 1:00 – 3:00 P.M.", "Desserts for Beginners", "Chef Marco Rossi"]
+       ]
+     },
+     "items": [
+       {"q": "When does the program start, and where are the classes held?"},
+       {"q": "I'd like to take the bread baking class on Thursday. I can still sign up for it, right?"},
+       {"q": "My schedule is busy on weekday evenings. Could you tell me about all the classes that are not held on weekday evenings?"}
+     ]}
+  ],
+  "part5": [
+    {"id": "p5-a", "items": [{"q": "Do you agree or disagree with the following statement? It is better for employees to work in a team than to work alone. Give specific reasons and examples to support your opinion."}]},
+    {"id": "p5-b", "items": [{"q": "Which do you think is more important for a manager: good communication skills or technical knowledge? Give specific reasons and examples to support your opinion."}]},
+    {"id": "p5-c", "items": [{"q": "Do you agree or disagree with the following statement? Companies should allow employees to work from home. Give specific reasons and examples to support your opinion."}]},
+    {"id": "p5-d", "items": [{"q": "What is the best way for young people to prepare for their future careers: getting a part-time job, doing an internship, or taking online courses? Give specific reasons and examples to support your opinion."}]},
+    {"id": "p5-e", "items": [{"q": "Do you agree or disagree with the following statement? Learning to use new technology is essential for success at work. Give specific reasons and examples to support your opinion."}]}
+  ]
+}

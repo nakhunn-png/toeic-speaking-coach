@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+faster-whisper>=1.0.3
+av>=12,<16    # av 16+ 는 faster-whisper 가 쓰는 metadata_errors 인자를 없앴다
+edge-tts>=7.3.1
+# 그래픽카드(NVIDIA)로 음성 인식 — 없으면 config.json 에서 whisper_device 를 "cpu" 로
+nvidia-cublas-cu12
+nvidia-cudnn-cu12>=9,<10

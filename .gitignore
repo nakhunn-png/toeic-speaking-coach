@@ -1,0 +1,13 @@
+# 가상환경 (start.bat 이 처음 실행 때 만든다)
+.venv/
+__pycache__/
+
+# 개인 데이터 — 녹음·채점 기록·캐시·로그
+data/recordings/
+data/history/
+data/tts_cache/
+data/grader_ws/
+data/server.log
+
+# Part 2 사진 — restore_images.py 가 CREDITS.txt 를 보고 다시 받는다
+data/images/*.jpg

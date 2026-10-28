@@ -1,0 +1,42 @@
+﻿Part 2 사진 출처: Unsplash (https://unsplash.com/license) — 무료 사용 가능
+
+p2_01.jpg  https://unsplash.com/photos/f7zm5TDOi4g  by Joshua Rodriguez  (카페 카운터에서 커피 사는 남자)
+    cdn: https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_02.jpg  https://unsplash.com/photos/FH50TQm9ols  by Harold Jonker  (화이트보드에 글 쓰는 남자)
+    cdn: https://images.unsplash.com/photo-1701941085980-66d617413efa?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_03.jpg  https://unsplash.com/photos/0Fc9NLV5c3U  by Tom Caillarec  (야외 시장 노점)
+    cdn: https://images.unsplash.com/photo-1777049645652-21dec8f3f5ae?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_04.jpg  https://unsplash.com/photos/nFu7Y50qx1w  by Andrew Leu  (기차 옆 사람들)
+    cdn: https://images.unsplash.com/photo-1540477159424-95cad94e7309?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_05.jpg  https://unsplash.com/photos/dsmSba7vbI8  by m c  (과일 가판대 시장 거리)
+    cdn: https://images.unsplash.com/photo-1788096787064-516acae8b44b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_06.jpg  https://unsplash.com/photos/faEfWCdOKIg  by Christina @ wocintechchat.com  (노트북 테이블 회의)
+    cdn: https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_07.jpg  https://unsplash.com/photos/F2eHfMwIOxA  by Robert Bye  (음식 카운터 앞 여자)
+    cdn: https://images.unsplash.com/photo-1464979681340-bdd28a61699e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_08.jpg  https://unsplash.com/photos/hUDxORPQF-4  by Alvin  (공원 잔디밭에 앉은 사람들)
+    cdn: https://images.unsplash.com/photo-1620361781882-7cdbf0c0e802?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_09.jpg  https://unsplash.com/photos/PTRzqc_h1r4  by Redd Francisco  (테이블 옆 대화)
+    cdn: https://images.unsplash.com/photo-1568992688065-536aad8a12f6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_10.jpg  https://unsplash.com/photos/R0J2YjY0oTc  by Barney Goodman  (붐비는 시장 골목)
+    cdn: https://images.unsplash.com/photo-1784288404500-f33c43993d54?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_11.jpg  https://unsplash.com/photos/9CR19q291ac  by Vitaly Gariev  (웨이터 주문 받기)
+    cdn: https://images.unsplash.com/photo-1753351055117-f24d8baa682e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_12.jpg  https://unsplash.com/photos/80zZ1s24Nag  by Joe Holland  (건설 현장 작업자)
+    cdn: https://images.unsplash.com/photo-1626885930974-4b69aa21bbf9?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_13.jpg  https://unsplash.com/photos/zE95fhGitc0  by Vitaly Gariev  (식료품점 가족 쇼핑)
+    cdn: https://images.unsplash.com/photo-1753354868403-bb9e04e74668?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_14.jpg  https://unsplash.com/photos/qhNutmNU1pE  by CHUTTERSNAP  (공항 터미널 여행객)
+    cdn: https://images.unsplash.com/photo-1503365194569-df4e1d04cec1?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_15.jpg  https://unsplash.com/photos/y-XZf_TNRms  by Pylyp Sukhenko  (주방 셰프 야채 썰기)
+    cdn: https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_16.jpg  https://unsplash.com/photos/GXvrq21TmAs  by Max Berger  (거리 보행자와 자전거)
+    cdn: https://images.unsplash.com/photo-1561399907-1fb7f27c5a38?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_17.jpg  https://unsplash.com/photos/1mwPOXb_pB8  by Benjamin Ashton  (도서관 안 사람들)
+    cdn: https://images.unsplash.com/photo-1514513452089-17f8a9771ee8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_18.jpg  https://unsplash.com/photos/slXXhWv_ZBk  by Karata My  (트럭에 상자 싣기)
+    cdn: https://images.unsplash.com/photo-1786719664257-1bc47a776f4c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_19.jpg  https://unsplash.com/photos/VPl2Wa8UyPE  by Jana Shnipelson  (버스 정류장 앞 사람들)
+    cdn: https://images.unsplash.com/photo-1696545720052-b2c622c058b5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280
+p2_20.jpg  https://unsplash.com/photos/2mhqft65NIo  by kevin laminto  (채소 코너 앞 여자)
+    cdn: https://images.unsplash.com/photo-1527493324787-47372b893452?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1280

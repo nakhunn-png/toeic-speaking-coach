@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>토익스피킹 코치</title>
+<link rel="stylesheet" href="style.css?v=20261016">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand" data-go="home">🎙️ 토익스피킹 코치</div>
+  <nav>
+    <button class="nav" data-go="home">홈</button>
+    <button class="nav" data-go="library">만능문장</button>
+    <button class="nav" data-go="history">기록</button>
+    <button id="btn-shutdown" class="ghost" title="서버를 끄고 앱을 종료합니다">⏻ 앱 종료</button>
+  </nav>
+</header>
+
+<main>
+  <!-- 홈 -->
+  <section id="view-home" class="view">
+    <div class="home-grid">
+      <div class="card mode">
+        <h2>연습 모드</h2>
+        <p>한 문제가 끝날 때마다 채점·교정·만능문장 피드백을 바로 받습니다. 다시 풀기 가능.</p>
+        <button id="btn-practice-all" class="primary big" style="width:100%;margin-bottom:16px">전체 문항 연습 시작 (문제마다 피드백)</button>
+        <div class="muted" style="font-size:13px;margin-bottom:8px">또는 파트만 골라서 연습</div>
+        <div id="part-buttons" class="part-buttons"></div>
+      </div>
+      <div class="card mode exam">
+        <h2>실전 모드</h2>
+        <p>실제 시험처럼 모든 문항을 쉬지 않고 진행하고, 끝난 뒤 예상 등급과 문항별 피드백을 받습니다.</p>
+        <div id="exam-summary" class="muted"></div>
+        <button id="btn-exam" class="primary big">실전 모의고사 시작</button>
+      </div>
+    </div>
+    <div class="card mictest">
+      <b>🎤 마이크 테스트</b>
+      <div class="mt-row">
+        <select id="mt-device"><option value="">기본 마이크</option></select>
+        <button id="mt-start" class="primary">테스트 시작</button>
+        <div class="meter mt-meter"><div id="mt-bar"></div></div>
+      </div>
+      <div id="mt-status" class="muted">시작 전에 한 번 눌러서 말해보세요. 막대가 움직이면 정상입니다.</div>
+    </div>
+    <div class="card tips">
+      <b>시작 전 확인</b>
+      <ul>
+        <li>마이크 권한을 허용하세요. 헤드셋을 쓰면 문제 음성이 녹음에 섞이지 않습니다.</li>
+        <li>채점은 PC에 설치된 Claude Code로 처리돼서 문항당 10~30초 걸립니다. 실전 모드는 시험을 보는 동안 미리 채점해 둡니다.</li>
+        <li>Part 2 사진 문제는 <code>data/images/</code> 폴더에 사진을 넣으면 자동으로 생깁니다 (2장이 1세트).</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 시험 진행 -->
+  <section id="view-run" class="view hidden">
+    <div class="run-head">
+      <div><span id="run-q" class="qbadge">Q1</span> <span id="run-part"></span></div>
+      <div id="run-mode" class="muted"></div>
+      <button id="btn-quit" class="ghost">그만두기</button>
+    </div>
+    <div class="run-grid">
+      <div id="stage" class="card stage"></div>
+      <aside class="card side">
+        <div id="phase" class="phase">대기</div>
+        <div class="timer-wrap">
+          <svg viewBox="0 0 120 120" class="ring"><circle cx="60" cy="60" r="52" class="ring-bg"/><circle id="ring-fg" cx="60" cy="60" r="52" class="ring-fg"/></svg>
+          <div id="timer" class="timer">0</div>
+        </div>
+        <div class="meter"><div id="meter-bar"></div></div>
+        <div id="silence" class="silence"></div>
+        <div class="side-btns">
+          <button id="btn-skip" class="ghost hidden">건너뛰기 ▶</button>
+          <button id="btn-stop" class="ghost hidden">답변 종료 ■</button>
+        </div>
+        <div id="memo-box" class="memo hidden">
+          <div class="memo-head"><b>📝 메모</b><button id="memo-clear" class="ghost">지우기</button></div>
+          <textarea id="memo" spellcheck="false" placeholder="준비시간에 개요를 적어 두세요.&#10;예) 10/14 · Grand Hotel / 점심 포함(X) / Mark Ellis 2회&#10;&#10;채점에는 들어가지 않습니다."></textarea>
+        </div>
+      </aside>
+    </div>
+    <div class="progress"><div id="progress-bar"></div></div>
+  </section>
+
+  <!-- 결과 리포트 -->
+  <section id="view-report" class="view hidden">
+    <div id="report"></div>
+  </section>
+
+  <section id="view-library" class="view hidden"><div id="library"></div></section>
+  <section id="view-history" class="view hidden"><div id="history"></div></section>
+</main>
+
+<script src="app.js?v=20261016"></script>
+</body>
+</html>

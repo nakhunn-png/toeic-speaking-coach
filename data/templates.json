@@ -1,0 +1,68 @@
+{
+  "_설명": "만능문장 라이브러리. 채점 AI는 피드백·모범답안을 만들 때 여기 문장을 우선 사용한다. 자유롭게 고치거나 추가해도 된다 (id만 겹치지 않게).",
+  "1": {
+    "title": "Part 1 · 지문 읽기 요령",
+    "items": [
+      {"id": "P1-1", "en": "쉼표(,)와 마침표(.)에서 짧게 끊고, 그 외에는 의미 단위로 이어 읽기", "ko": "끊어 읽기"},
+      {"id": "P1-2", "en": "A, B, and C ↗ ↗ ↘ — 나열은 앞은 올리고 마지막만 내리기", "ko": "나열 억양"},
+      {"id": "P1-3", "en": "Yes/No 의문문은 ↗, Wh- 의문문은 ↘", "ko": "의문문 억양"},
+      {"id": "P1-4", "en": "고유명사·숫자·내용어(명사·동사·형용사)에 강세", "ko": "강세"},
+      {"id": "P1-5", "en": "준비시간 45초에 어려운 단어를 2번 소리 내어 미리 연습", "ko": "준비시간 활용"}
+    ]
+  },
+  "2": {
+    "title": "Part 2 · 사진 묘사",
+    "items": [
+      {"id": "P2-1", "en": "This picture was taken at/in ___.", "ko": "이 사진은 ___에서 찍혔습니다. (첫 문장 고정)"},
+      {"id": "P2-2", "en": "The first thing I see is ___ who is ___ing.", "ko": "가장 먼저 보이는 것은 ___하고 있는 ___입니다."},
+      {"id": "P2-3", "en": "In the middle of the picture, ___ is/are ___ing.", "ko": "사진 가운데에는 ___"},
+      {"id": "P2-4", "en": "On the left/right side of the picture, I can see ___.", "ko": "사진 왼쪽/오른쪽에는 ___"},
+      {"id": "P2-5", "en": "In the background, there are ___.", "ko": "배경에는 ___이 있습니다."},
+      {"id": "P2-6", "en": "He/She is wearing ___ and holding ___.", "ko": "인물 옷차림·손동작"},
+      {"id": "P2-7", "en": "Overall, it seems like a busy/peaceful ___.", "ko": "전체적으로 ___한 분위기입니다. (마무리 고정)"}
+    ]
+  },
+  "3": {
+    "title": "Part 3 · 질문에 답하기",
+    "items": [
+      {"id": "P3-1", "en": "To be honest, I ___ about once a week.", "ko": "솔직히 저는 일주일에 한 번 정도 ___합니다. (빈도 질문 첫 문장)"},
+      {"id": "P3-2", "en": "I usually ___ with my friends or coworkers.", "ko": "보통 친구나 동료와 ___합니다. (누구와)"},
+      {"id": "P3-3", "en": "The main reason is that it's convenient and saves me a lot of time.", "ko": "주된 이유는 편리하고 시간이 많이 절약되기 때문입니다. (만능 이유 ①)"},
+      {"id": "P3-4", "en": "It's much cheaper, so I can save money.", "ko": "훨씬 저렴해서 돈을 아낄 수 있습니다. (만능 이유 ②)"},
+      {"id": "P3-5", "en": "It helps me relieve stress after a long day at work.", "ko": "긴 하루 뒤 스트레스 해소에 도움이 됩니다. (만능 이유 ③)"},
+      {"id": "P3-6", "en": "I can get a lot of useful information easily.", "ko": "유용한 정보를 쉽게 얻을 수 있습니다. (만능 이유 ④)"},
+      {"id": "P3-7", "en": "I'd prefer ___ for two reasons. First, ___. Second, ___.", "ko": "두 가지 이유로 ___을 선호합니다. (30초 문항 뼈대)"},
+      {"id": "P3-8", "en": "For example, last weekend I ___.", "ko": "예를 들어 지난 주말에 ___했습니다. (경험 예시)"},
+      {"id": "P3-9", "en": "That's why I ___.", "ko": "그래서 저는 ___합니다. (마무리)"},
+      {"id": "P3-10", "en": "On top of that, ___.", "ko": "게다가 ___. (이유 추가)"}
+    ]
+  },
+  "4": {
+    "title": "Part 4 · 제공된 정보로 답하기",
+    "items": [
+      {"id": "P4-1", "en": "Sure, let me check the schedule for you.", "ko": "네, 일정을 확인해 드릴게요. (시작 고정)"},
+      {"id": "P4-2", "en": "The ___ will be held on ___ at ___, in ___.", "ko": "___는 ___일 ___시에 ___에서 열립니다."},
+      {"id": "P4-3", "en": "It starts at ___ and finishes at ___.", "ko": "___에 시작해서 ___에 끝납니다."},
+      {"id": "P4-4", "en": "I'm sorry, but I think you have the wrong information.", "ko": "죄송하지만 잘못 알고 계신 것 같아요. (Q9 오류 정정 첫 문장)"},
+      {"id": "P4-5", "en": "Actually, ___ has been canceled / rescheduled to ___.", "ko": "사실 ___는 취소/___로 변경되었습니다."},
+      {"id": "P4-6", "en": "Don't worry, ___ is provided / included.", "ko": "걱정 마세요, ___는 제공/포함됩니다."},
+      {"id": "P4-7", "en": "There are two sessions related to ___. First, ___. Second, ___.", "ko": "___ 관련 일정은 두 개입니다. 첫째 ___, 둘째 ___. (Q10 뼈대)"},
+      {"id": "P4-8", "en": "At ___, ___ will lead a ___ on ___.", "ko": "___시에 ___가 ___에 대한 ___를 진행합니다. (항목 읽기)"},
+      {"id": "P4-9", "en": "If you have any other questions, feel free to call me.", "ko": "다른 질문 있으면 편하게 연락 주세요. (마무리 고정)"}
+    ]
+  },
+  "5": {
+    "title": "Part 5 · 의견 말하기",
+    "items": [
+      {"id": "P5-1", "en": "I agree with the statement that ___ for a couple of reasons.", "ko": "몇 가지 이유로 ___라는 의견에 동의합니다. (첫 문장)"},
+      {"id": "P5-2", "en": "Personally, I think ___ is more important.", "ko": "개인적으로 ___가 더 중요하다고 생각합니다. (선택형 첫 문장)"},
+      {"id": "P5-3", "en": "First of all, it is more efficient, so we can save a lot of time and money.", "ko": "우선 더 효율적이라 시간과 돈을 아낄 수 있습니다. (만능 이유 ①)"},
+      {"id": "P5-4", "en": "Also, it helps people communicate better and build good relationships.", "ko": "또한 소통이 잘 되고 좋은 관계를 쌓는 데 도움이 됩니다. (만능 이유 ②)"},
+      {"id": "P5-5", "en": "In addition, we can learn a lot of practical skills and gain experience.", "ko": "게다가 실용적인 기술과 경험을 얻을 수 있습니다. (만능 이유 ③)"},
+      {"id": "P5-6", "en": "It also reduces stress, which improves productivity.", "ko": "스트레스를 줄여 생산성을 높입니다. (만능 이유 ④)"},
+      {"id": "P5-7", "en": "For example, when I worked at my previous company, ___. As a result, ___.", "ko": "예를 들어 전 직장에서 ___했을 때, 그 결과 ___. (만능 경험 예시)"},
+      {"id": "P5-8", "en": "Thanks to this experience, I realized that ___.", "ko": "이 경험 덕분에 ___라는 걸 깨달았습니다."},
+      {"id": "P5-9", "en": "For these reasons, I believe that ___.", "ko": "이러한 이유로 저는 ___라고 생각합니다. (마무리 고정)"}
+    ]
+  }
+}

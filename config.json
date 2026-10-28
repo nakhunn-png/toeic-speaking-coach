@@ -1,0 +1,9 @@
+{
+  "port": 8765,
+  "whisper_model": "large-v3",
+  "whisper_device": "cuda",
+  "whisper_compute_type": "float16",
+  "whisper_cpu_fallback_model": "small.en",
+  "claude_model": "sonnet",
+  "grade_concurrency": 3
+}
